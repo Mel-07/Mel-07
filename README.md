@@ -1,11 +1,11 @@
 <h1 style="text-decoration-line: underline;;font-size:2rem;text-align:center;" align="center">Hi 👋, I'm Okocha Emeka Emmanuel </h1>
-<h3 align="center">A passionate frontend developer from NIGERIA ,ABUJA</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mel-07&label=Profile%20views&color=0e75b6&style=flat" alt="mel-07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Using **REACT JavaScrip Rust CSS SCSS**
+- 🌱 Using **REACT JavaScrip Rust CSS SCSS** <ul> <li>React</li><li>JavaScript</li><li>TypeScript</li><li>CSS</li> <li>Rust</li> </ul>
 
 - 👯 I’m looking to collaborate on **AWSOME PROJECT**
 
