@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Using **REACT JavaScrip Rust CSS SCSS** <ul> <li>React</li><li>JavaScript</li><li>TypeScript</li><li>CSS</li> <li>Rust</li> </ul>
+- 🌱 Using **REACT JavaScrip Rust CSS SCSS**
+  <ul style=" background-color:coral !important; text-color:green"> <li>React</li><li>JavaScript</li><li>TypeScript</li><li>CSS</li> <li>Rust</li> </ul>
 
 - 👯 I’m looking to collaborate on **AWSOME PROJECT**
 
