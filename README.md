@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Okocha Emeka Emmanuel </h1>
+<h1 style="text-decoration-line: underline;;font-size:2rem;text-align:center;" align="center">Hi 👋, I'm Okocha Emeka Emmanuel </h1>
 <h3 align="center">A passionate frontend developer from NIGERIA ,ABUJA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mel-07&label=Profile%20views&color=0e75b6&style=flat" alt="mel-07" /> </p>
